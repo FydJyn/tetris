@@ -1,0 +1,7 @@
+bin/
+obj/
+*.user
+*.suo
+*.zip
+Projects/TetrisWinForms_backup_v2/
+Projects/TetrisWinFormsSolution_backup_v2.sln
